@@ -279,15 +279,4 @@ It delivers a seamless **real-time conversational experience** using a well-stru
 
 ---
 
-## 📷 Image Placement Guide
-
-- Place **System Architecture Image** under *System Interaction Flow*
-- Place **Workflow Diagram** under *End-to-End Workflow*
-
----
-
-✅ This document is structured for:
-- Project documentation
-- GitHub README
-- Technical presentation
 
